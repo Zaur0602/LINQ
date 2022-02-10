@@ -1,0 +1,6 @@
+C:\Users\Заур\Desktop\проекты\LINQ\Linq_1\bin\Release\Linq_1.exe.config
+C:\Users\Заур\Desktop\проекты\LINQ\Linq_1\bin\Release\Linq_1.exe
+C:\Users\Заур\Desktop\проекты\LINQ\Linq_1\bin\Release\Linq_1.pdb
+C:\Users\Заур\Desktop\проекты\LINQ\Linq_1\obj\Release\Linq_1.csproj.CoreCompileInputs.cache
+C:\Users\Заур\Desktop\проекты\LINQ\Linq_1\obj\Release\Linq_1.exe
+C:\Users\Заур\Desktop\проекты\LINQ\Linq_1\obj\Release\Linq_1.pdb
