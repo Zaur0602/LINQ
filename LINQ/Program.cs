@@ -13,7 +13,7 @@ namespace LINQ
         static void Main(string[] args)
         {
             
-            string[] teams = { "Бавария", "Боруссия", "Реал Мадрид", "Манчестер Сити", "ПСЖ", "Барселона" };
+            string[] teams = { "Бавария", "Боруссия", "Реал Мадрид", "Манчестер Сити", "ПСЖ", "Кострома" };
 
             var selectedTeams = from t in teams // определяем каждый объект из teams как t
                                 where t.ToUpper().StartsWith("Б") //фильтрация по критерию
